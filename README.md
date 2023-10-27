@@ -1,5 +1,4 @@
-# Dog App
-
+# RateMyProf
 
 
 ## Getting started
